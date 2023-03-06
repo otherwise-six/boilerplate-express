@@ -1,6 +1,9 @@
 {
   "name": "fcc-learn-node-with-express",
+  "author": "Alex vanKooten",
   "version": "0.1.0",
+  "keywords": [ "freecodecamp", "beginner", "backend", "development" ],
+  "license": "MIT",
   "dependencies": {
     "body-parser": "^1.15.2",
     "cookie-parser": "^1.4.3",
